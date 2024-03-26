@@ -1,0 +1,13 @@
+**/node_modules/*
+dist
+coverage
+**/.next/*
+*.json
+*.lock
+*.css
+*.scss
+next-env.d.ts
+utils/
+
+.next/
+other/

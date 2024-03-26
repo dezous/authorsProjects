@@ -1,0 +1,17 @@
+._container {
+  width: 100%;
+  max-width: var(--maxWidthContainer);
+  padding: 0 32px;
+  margin: 0 auto;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+main {
+  flex: 1;
+}
+.overflow {
+  overflow: hidden;
+}
